@@ -90,6 +90,6 @@ This project is useful for:
 
 ## 📞 Contact
 
-Name: Manasvi
+Name: D.Manasvi
 Email: manasvi.datla@gmail.com
 LinkedIn: manasvi-datla
