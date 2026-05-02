@@ -69,7 +69,10 @@ Includes bar charts, line charts, and slicers for easy understanding.
    * Top products
    * Regional insights
 5. Use slicers to filter data dynamically.
-   <img width="634" height="355" alt="dashboard" src="https://github.com/user-attachments/assets/4e8f0bbd-3203-4a27-9296-66245963b8da" />
+   <img width="634" height="355" alt="dashboard" src="https://github.com/user-attachments/assets/4e8f0bbd-3203-4a27-9296-66245963b8da" />  <img width="643" height="362" alt="furniture" src="https://github.com/user-attachments/assets/8cb25b06-af59-4656-9b8a-e98b6f83a603" />  <img width="638" height="361" alt="office" src="https://github.com/user-attachments/assets/0d8945ae-7761-4fdd-ac02-f2bb5293dedd" />  <img width="630" height="371" alt="technology" src="https://github.com/user-attachments/assets/740fc6b8-4383-45fc-b613-c660e79f88c4" />
+
+
+
 
 
 
